@@ -34,7 +34,7 @@ Solution designed under $50,000 using:
 - Cloud-based security tools
 
 ## 📄 Full Report
-[View Full Project](docs/Secure_Network_Merger_Plan.pdf)
+[View Full Project](https://github.com/Master-Ka/Secure-network-merger-design/blob/main/D482ProjectNov13%20(2)%20(1).pdf)
 
 ## 📊 Future Improvements
 - Add network topology diagram
